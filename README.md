@@ -1,4 +1,4 @@
-# Example Project
+# AppAuth Example Project with Google
 
 ## Setup & Open the Project
 
@@ -20,7 +20,7 @@ client ID.
 * Redirect URI
 
 How to get this information varies by IdP, but we have
-[instructions](../README.md#openid-certified-providers) for some OpenID
+[instructions](https://github.com/openid/AppAuth-iOS/blob/master/Examples/README.md#openid-certified-providers) for some OpenID
 Certified providers.
 
 ### Configure the Example
